@@ -1,7 +1,6 @@
 # Machine Learning Projects
 
-Welcome to my collection of machine learning projects! This repository contains several projects showcasing different machine learning techniques and models. Below, you'll find descriptions of each project along with instructions on how to set them up and run them.
-
+Welcome to my collection of machine learning projects! This repository contains several projects showcasing different machine learning techniques and models.
 ## Projects
 
 ### 1. Movie Recommendation System
